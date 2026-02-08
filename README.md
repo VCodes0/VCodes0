@@ -1,28 +1,77 @@
-<h1 align="center">Hi 👋, I'm Vishnu Prajapati</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=vcodes0&label=Profile%20views&color=0e75b6&style=flat" alt="vcodes0" /> </p>
+<!-- ===================== -->
+<!--  GLASSY PROFILE UI   -->
+<!-- ===================== -->
 
-- 🌱 I’m currently learning **flutter , Firebase & Java**
+<h1 align="center">Vishnu Prajapati</h1>
 
-- 👨‍💻 All of my projects are available at [https://github.com/VCodes0?tab=repositories](https://github.com/VCodes0?tab=repositories)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=24&pause=1000&color=7DD3FC&center=true&vCenter=true&width=520&lines=Flutter+Developer;Firebase+%7C+Java+%7C+Python;Crafting+Clean+Mobile+Apps" />
+</p>
 
-- 💬 Ask me about **flutter , Firebase & Java**
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=vcodes0&label=Profile+Views&color=7dd3fc&style=flat-square" />
+</p>
 
-- 📫 How to reach me **orewavishnuprajapati@gmail.com**
+<br/>
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://www.instagram.com/v_i_s_h_n_u_prajapati_?igsh=NTkzbXRpYzlpNWFk/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="Instagram" height="30" width="40" />
+<!-- GLASS CARD -->
+<div align="center">
+
+<table>
+<tr>
+<td>
+
+### ✨ About Me
+
+- 🚀 Flutter Developer passionate about **clean UI**
+- 🧠 Learning **Firebase, Java & Python**
+- 💬 Ask me about **Flutter & App Architecture**
+- 📫 **orewavishnuprajapati@gmail.com**
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<br/>
+
+<!-- CONNECT -->
+<h3 align="center">🌐 Connect With Me</h3>
+<p align="center">
+  <a href="https://www.linkedin.com/in/vishnu-prajapati-085b15366/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/vishnu-prajapati-085b15366/" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" />
+  <a href="https://www.instagram.com/v_i_s_h_n_u_prajapati_?igsh=NTkzbXRpYzlpNWFk/">
+    <img src="https://img.shields.io/badge/Instagram-111?style=for-the-badge&logo=instagram&logoColor=E4405F"/>
   </a>
 </p>
 
+<br/>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://appwrite.io" target="_blank" rel="noreferrer"> <img  <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> </p>
+<!-- TECH STACK -->
+<h3 align="center">🧊 Tech Stack</h3>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=flutter,firebase,java,python,git" />
+</p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=vcodes0&show_icons=true&locale=en&layout=compact" alt="vcodes0" /></p>
+<br/>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=vcodes0&show_icons=true&locale=en" alt="vcodes0" /></p>
+<!-- STATS -->
+<h3 align="center">📊 GitHub Stats</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=vcodes0&show_icons=true&theme=transparent&hide_border=true" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcodes0&layout=compact&theme=transparent&hide_border=true" width="48%"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=vcodes0&theme=transparent&hide_border=true" />
+</p>
+
+<br/>
+
+<!-- GLASS FOOTER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,100:22d3ee&height=120&section=footer"/>
+</p>

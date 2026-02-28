@@ -1,111 +1,27 @@
-<!-- Professional Animated Header -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=32&duration=3500&pause=1000&color=0E75B6&center=true&vCenter=true&width=600&lines=Vishnu+Prajapati;Flutter+Developer;Cross-Platform+App+Specialist;Building+Scalable+Mobile+Solutions" />
-</h1>
+# 💫 About Me:
+🚀 Results-driven Flutter Developer<br>📱 Build scalable, production-ready mobile apps<br>🏗️ Clean Architecture & efficient state management<br>🔗 REST APIs & 🔥 Firebase integration<br>⚡ Maintainable, high-performance code
 
-<h3 align="center">Flutter Developer | Firebase | Clean Architecture | Scalable Apps</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vcodes0&label=Profile%20Views&color=0E75B6&style=flat-square" />
-</p>
+## 🌐 Socials:
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/v_i_s_h_n_u_prajapati_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/vishnu-prajapati-085b15366?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app&fbclid=PAZXh0bgNhZW0CMTEAc3J0YwZhcHBfaWQMMjU2MjgxMDQwNTU4AAGnTaYtpVOwMkZnbp_jIJNm_3msPGGwxv-I9-fc59p7uACDlYExyaYF78x5pgk_aem_H15njkSdqmzGgJwC3u2WvA) 
 
----
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white) ![Dart](https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Firebase](https://img.shields.io/badge/firebase-a08021?style=for-the-badge&logo=firebase&logoColor=ffcd34) ![Firebase](https://img.shields.io/badge/firebase-%23039BE5.svg?style=for-the-badge&logo=firebase) ![Appwrite](https://img.shields.io/badge/Appwrite-%23FD366E.svg?style=for-the-badge&logo=appwrite&logoColor=white) ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=VCodes0&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=VCodes0&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=VCodes0&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 👨‍💻 About ME
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=VCodes0&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-Results-driven **Flutter Developer** with hands-on experience in building scalable, production-ready mobile applications.  
-Strong understanding of clean architecture, state management, REST APIs, and Firebase backend integration.  
-Focused on writing maintainable, high-performance code.
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
----
-
-## 🚀 Current Project
-
-🔹 **FleetVerse Dealer**  
-Enterprise-level mobile application  
-📱 https://play.google.com/store/apps/details?id=com.tatamotors.fleetversedealersmart
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=VCodes0&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=VCodes0&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🛠 Technical Skills
-
-### 🚀 Mobile Development
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,dart" />
-</p>
-
-### 🔥 Backend & Database
-<p>
-  <img src="https://skillicons.dev/icons?i=firebase,appwrite" />
-</p>
-
-### 🧠 Programming
-<p>
-  <img src="https://skillicons.dev/icons?i=python" />
-</p>
-
-### ⚙️ Tools & Environment
-<p>
-  <img src="https://skillicons.dev/icons?i=git,linux,figma" />
-</p>
-
----
-
-## 📊 GitHub Analytics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vcodes0&show_icons=true&theme=default&hide_border=true" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vcodes0&layout=compact&hide_border=true" height="160"/>
-</p>
-
----
-
-## 📈 Contribution Activity
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=vcodes0&bg_color=ffffff&color=0E75B6&line=0E75B6&point=000000&hide_border=true" />
-</p>
-
----
-
-## 🏆 Achievements
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=vcodes0&theme=flat&no-frame=true&margin-w=5" />
-</p>
-
----
-
-## 🌐 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/vishnu-prajapati-085b15366">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="30"/>
-  </a>
-  <a href="mailto:orewavishnuprajapati@gmail.com">
-    <img src="https://skillicons.dev/icons?i=gmail" height="30"/>
-  </a>
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg" />
-</p>
-
----
-
-### 💼 Open For
-
-- Flutter Developer Roles  
-- Freelance Projects  
-- Contract-Based Mobile Development  
-- Startup Collaborations  
-
----
-
-<p align="center">
-  <b>“Crafting scalable mobile experiences with precision and performance.”</b>
-</p>
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
